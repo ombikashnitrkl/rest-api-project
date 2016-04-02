@@ -1,9 +1,9 @@
 {
-    "author": "Olivier Poitrey <rs@dailymotion.com>",
+    "author": "Om Bikash <ombikashnitrkl@gmail.com.com>",
     "name": "pushd",
     "description": "Blazing fast multi-protocol mobile push notification service",
     "version": "1.6.5",
-    "homepage": "https://github.com/rs/pushd",
+    "homepage": "https://github.com/ombikshnitrkl/rest-api-project",
     "keywords": ["push", "notification", "apns", "c2dm", "mpns", "ios", "android", "windows", "phone"],
     "repository":
     {
