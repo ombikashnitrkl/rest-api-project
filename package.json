@@ -8,7 +8,7 @@
     "repository":
     {
         "type": "git",
-        "url": "git://github.com/rs/pushd.git"
+        "url": "git://github.com/ombikashnitrkl/rest-api-project.git"
     },
     "preferGlobal": "true",
     "bin":
@@ -42,16 +42,11 @@
         "redis": "~1.0.0",
         "netmask": "~1.0.4",
         "winston": "~0.7.3",
-        "wns": "git+https://github.com/futurice/wns.git#28bfe39a3be8c64f3d72b7c7a5cac77c049b137a"
+        "wns": "git+https://github.com/bhargavpanth/PushEngage.git#fn8VnyUGNDQ:APA91bG6bvEP_TJ6muUrxX0mV-a3YYj4xBjqT1XRCEo0rJAN0aa5pv0yYq22Ula69YFYV0XXLpr5vJpfL1UnMV9XvYZkmuQ8ZViitI0wAEt382BJBXL8ukVR5sbhL3nNDhv8u8WLBaxvsite_id:488"
     },
     "devDependencies":
     {
         "mocha": "*",
         "should": "*"
     },
-    "licenses":
-    [{
-      "type": "MIT",
-      "url": "https://github.com/rs/pushd/raw/master/LICENSE"
-    }]
 }
